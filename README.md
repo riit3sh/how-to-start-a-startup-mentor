@@ -9,6 +9,14 @@ A Claude skill built from the full Stanford CS183B course. Get startup advice fr
 3. Start a new chat and type `/how-to-start-a-startup-mentor`
 4. Claude will run an intake questionnaire, then give you direct, cited advice based on your situation
 
+Alternatively 
+
+1. Go to [Claude.ai](https://claude.ai) and open **Customize**
+2. Click Create new skill
+3. Click the add(+) icon and uplload the `SKILL.md`
+4. Start a new chat and type `/how-to-start-a-startup-mentor`
+5. Claude will run an intake questionnaire, then give you direct, cited advice based on your situation
+
 ## What it does
 
 - Asks the exact questions a YC partner would ask
